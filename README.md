@@ -2,14 +2,25 @@
 
 Aplicação de console em C# que simula um sistema de vendas para uma loja, demonstrando conceitos de POO: encapsulamento, abstração, herança e polimorfismo.
 
+## Menu
+<img width="971" height="243" alt="SPmenu" src="https://github.com/user-attachments/assets/fe1fcd41-1301-4358-8ae6-cc763dbbdfb2" />
+
+
 ## Recursos
 
 - Cadastro de vendas com cliente e valor
+  <img width="965" height="221" alt="SPcadastrovenda" src="https://github.com/user-attachments/assets/d90af555-eae5-484c-ab4e-3fe350c474a1" />
+
 - Listagem de vendas
+  <img width="978" height="223" alt="SPlistar" src="https://github.com/user-attachments/assets/f51ad94f-5014-4aa3-bb12-25bf86669bdd" />
+
 - Realização de pagamento com três formas:
   - PIX (5% de desconto)
   - Cartão de crédito (3% de acréscimo)
   - Dinheiro (sem alteração)
+
+  <img width="977" height="305" alt="SPpgtyo" src="https://github.com/user-attachments/assets/59cfbb30-7b81-4ee1-87e7-e5ac1766598b" />
+
 - Validações básicas (nome, CPF e valor da compra)
 
 ## Requisitos
